@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 40px;
+}
+
+.splash {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+p {
+    font-family: 'Barlow', sans-serif;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+}
+
+span{
+    font-style: italic; 
+}
