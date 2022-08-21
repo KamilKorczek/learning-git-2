@@ -1,0 +1,5 @@
+Komenda instalująca:
+npm install --save-dev html-validate
+
+Komenda uruchamiająca:
+npm exec html-validate "*.html"
